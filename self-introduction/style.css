@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+    background-image: url("images/sumabura-ganon-1.png");
+    background-size: 1700px 1100px;
+    background-repeat: no-repeat;
+}
+p {
+    font-size:20px;
+}
